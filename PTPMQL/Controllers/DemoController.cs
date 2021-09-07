@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace PTPMQL.Controllers
+namespace GPTB1L.Controllers
 {
     public class DemoController : Controller
     {
